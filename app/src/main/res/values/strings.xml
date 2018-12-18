@@ -1,10 +1,10 @@
-<resources>
+    <resources>
     <string name="app_name">SHS Registration</string>
 
-    <string-array name="Courses">
+    <string-array name="Course">
         <item>ICT</item>
         <item>ABM</item>
         <item>TO</item>
-        <item>CULI</item>
+        <item>CULARTS</item>
     </string-array>
 </resources>
